@@ -1,2 +1,3 @@
 # win-firewall-log-ingest
-Ingest the entries in the windows firewall log into a SQL Server Database for easier management.
+Ingest the MaxMind GeoIP augmented entries from the windows firewall log into a SQL Server Database for easier management. 
+
