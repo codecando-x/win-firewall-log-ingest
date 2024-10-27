@@ -1,0 +1,7 @@
+﻿namespace FirewallLogIngestService
+{
+}
+
+namespace FirewallLogIngestService
+{
+}
